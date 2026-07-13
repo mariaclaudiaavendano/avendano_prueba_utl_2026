@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "nombre": "APELLIDO NOMBRE",
+    "email": "correo@ejemplo.com",
+    "url_repo": "https://github.com/USUARIO/apellido_prueba_utl_2026"
+  },
+  "generado_en": "2026-07-13T17:08:49.174413+00:00",
+  "reto_1_extraccion": {
+    "municipios": {
+      "esperados": [
+        "TUNJA",
+        "PAIPA",
+        "SOGAMOSO",
+        "DUITAMA"
+      ],
+      "presentes": [
+        "DUITAMA",
+        "PAIPA",
+        "SOGAMOSO",
+        "TUNJA"
+      ],
+      "faltantes": [],
+      "resultado": "4/4 municipios"
+    },
+    "conteos_por_municipio": {
+      "TUNJA": {
+        "filas_votacion": 120,
+        "mesas": 6
+      },
+      "PAIPA": {
+        "filas_votacion": 120,
+        "mesas": 6
+      },
+      "SOGAMOSO": {
+        "filas_votacion": 120,
+        "mesas": 6
+      },
+      "DUITAMA": {
+        "filas_votacion": 112,
+        "mesas": 6
+      }
+    }
+  },
+  "reto_2_base_de_datos": {
+    "filas_por_tabla": {
+      "partidos": 4,
+      "candidatos": 20,
+      "votacion": 472,
+      "carga_log": 2
+    },
+    "partido_lider_se_por_municipio": {
+      "TUNJA": {
+        "partido": "CENTRO DEMOCRATICO",
+        "votos": 1768
+      },
+      "PAIPA": {
+        "partido": "CENTRO DEMOCRATICO",
+        "votos": 2002
+      },
+      "SOGAMOSO": {
+        "partido": "CONSERVADOR",
+        "votos": 2091
+      },
+      "DUITAMA": {
+        "partido": "CONSERVADOR",
+        "votos": 2295
+      }
+    },
+    "idempotencia_etl": {
+      "corridas_registradas": 2,
+      "es_idempotente": true,
+      "detalle": "Ultima corrida inserto 0 filas nuevas (se espera 0 en una re-ejecucion)"
+    }
+  },
+  "reto_3_sql_analitico": [
+    {
+      "archivo": "tarea_3_1.sql",
+      "estado": "OK",
+      "columnas": [
+        "municipio",
+        "id_mesa",
+        "votos_ca",
+        "votos_se",
+        "ratio_arrastre"
+      ],
+      "n_filas": 24,
+      "muestra": [
+        [
+          "DUITAMA",
+          1,
+          325,
+          264,
+          0.8123076923076923
+        ],
+        [
+          "DUITAMA",
+          2,
+          595,
+          417,
+          0.7008403361344537
+        ],
+        [
+          "DUITAMA",
+          3,
+          309,
+          471,
+          1.5242718446601942
+        ],
+        [
+          "DUITAMA",
+          4,
+          401,
+          612,
+          1.5261845386533666
+        ],
+        [
+          "DUITAMA",
+          5,
+          396,
+          278,
+          0.702020202020202
+        ]
+      ]
+    },
+    {
+      "archivo": "tarea_3_2.sql",
+      "estado": "OK",
+      "columnas": [
+        "municipio",
+        "id_mesa",
+        "nombre_normalizado",
+        "id_partido",
+        "corporacion",
+        "votos",
+        "total_partido_mesa",
+        "porcentaje_dominancia"
+      ],
+      "n_filas": 48,
+      "muestra": [
+        [
+          "TUNJA",
+          1,
+          "MARIA JOSE TORRES",
+          5,
+          "CA",
+          260,
+          320,
+          0.8125
+        ],
+        [
+          "PAIPA",
+          1,
+          "OSCAR MAURICIO ROJAS",
+          92,
+          "SE",
+          244,
+          313,
+          0.7795527156549521
+        ],
+        [
+          "SOGAMOSO",
+          3,
+          "GLORIA ESPERANZA MEJIA",
+          2,
+          "SE",
+          253,
+          333,
+          0.7597597597597597
+        ],
+        [
+          "TUNJA",
+          1,
+          "RICARDO SUAREZ",
+          10,
+          "SE",
+          203,
+          269,
+          0.7546468401486989
+        ],
+        [
+          "SOGAMOSO",
+          5,
+          "SOFIA RAMIREZ",
+          57,
+          "SE",
+          258,
+          347,
+          0.7435158501440923
+        ]
+      ]
+    },
+    {
+      "archivo": "tarea_3_3.sql",
+      "estado": "OK",
+      "columnas": [
+        "id_candidato",
+        "nombre_normalizado",
+        "partido",
+        "votos_cand",
+        "votos_SE_partido",
+        "atribucion"
+      ],
+      "n_filas": 5,
+      "muestra": [
+        [
+          203,
+          "FELIPE SANTOS LEON",
+          "CONSERVADOR",
+          2880,
+          7744,
+          2850.18785942492
+        ],
+        [
+          1002,
+          "PAULA ANDREA MORENO",
+          "CENTRO DEMOCRATICO",
+          2920,
+          7901,
+          2720.948225026536
+        ],
+        [
+          1003,
+          "SANTIAGO VARGAS",
+          "CENTRO DEMOCRATICO",
+          2856,
+          7901,
+          2661.3110036560915
+        ],
+        [
+          202,
+          "MONICA LILIANA PEREZ",
+          "CONSERVADOR",
+          2646,
+          7744,
+          2618.6100958466454
+        ],
+        [
+          1001,
+          "DIEGO ALEJANDRO RUIZ",
+          "CENTRO DEMOCRATICO",
+          2703,
+          7901,
+          2518.7407713173725
+        ]
+      ]
+    }
+  ],
+  "reto_5_visualizaciones": {
+    "scatter_ca_se": {
+      "estado": "OK",
+      "r": 0.727,
+      "pendiente": 1.036,
+      "n_mesas": 23,
+      "png_generado": true,
+      "png_bytes": 143443
+    },
+    "heatmap_municipios": {
+      "existe": true,
+      "bytes": 210449,
+      "ok": true
+    }
+  }
+}

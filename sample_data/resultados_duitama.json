@@ -1,0 +1,1125 @@
+{
+  "municipio": "DUITAMA",
+  "resultados": [
+    {
+      "id_mesa": 1,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 142
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 101
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 82
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 184
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 56
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 217
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 124
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 117
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 213
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 172
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 156
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 127
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57001,
+      "candidato": "SOFIA RAMIREZ",
+      "corporacion": "SE",
+      "votos": 169
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57002,
+      "candidato": "ANDRES FELIPE LOPEZ",
+      "corporacion": "SE",
+      "votos": 95
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92001,
+      "candidato": "CAMILA VALENCIA",
+      "corporacion": "SE",
+      "votos": 158
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92002,
+      "candidato": "OSCAR MAURICIO ROJAS",
+      "corporacion": "SE",
+      "votos": 234
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10001,
+      "candidato": "NATALIA ALVAREZ",
+      "corporacion": "SE",
+      "votos": 208
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10002,
+      "candidato": "RICARDO SUAREZ",
+      "corporacion": "SE",
+      "votos": 189
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2001,
+      "candidato": "GLORIA ESPERANZA MEJIA",
+      "corporacion": "SE",
+      "votos": 111
+    },
+    {
+      "id_mesa": 1,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2002,
+      "candidato": "HERNAN DARIO GUTIERREZ",
+      "corporacion": "SE",
+      "votos": 189
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 172
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 232
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 191
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 165
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 53
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 85
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 139
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 108
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 140
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 56
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 82
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 204
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57001,
+      "candidato": "SOFIA RAMIREZ",
+      "corporacion": "SE",
+      "votos": 214
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57002,
+      "candidato": "ANDRES FELIPE LOPEZ",
+      "corporacion": "SE",
+      "votos": 203
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92001,
+      "candidato": "CAMILA VALENCIA",
+      "corporacion": "SE",
+      "votos": 247
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92002,
+      "candidato": "OSCAR MAURICIO ROJAS",
+      "corporacion": "SE",
+      "votos": 311
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10001,
+      "candidato": "NATALIA ALVAREZ",
+      "corporacion": "SE",
+      "votos": 275
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10002,
+      "candidato": "RICARDO SUAREZ",
+      "corporacion": "SE",
+      "votos": 129
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2001,
+      "candidato": "GLORIA ESPERANZA MEJIA",
+      "corporacion": "SE",
+      "votos": 229
+    },
+    {
+      "id_mesa": 2,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2002,
+      "candidato": "HERNAN DARIO GUTIERREZ",
+      "corporacion": "SE",
+      "votos": 300
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 113
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 137
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 59
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 204
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 43
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 116
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 178
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 203
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 68
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 165
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 159
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 88
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57001,
+      "candidato": "SOFIA RAMIREZ",
+      "corporacion": "SE",
+      "votos": 197
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57002,
+      "candidato": "ANDRES FELIPE LOPEZ",
+      "corporacion": "SE",
+      "votos": 274
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92001,
+      "candidato": "CAMILA VALENCIA",
+      "corporacion": "SE",
+      "votos": 201
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92002,
+      "candidato": "OSCAR MAURICIO ROJAS",
+      "corporacion": "SE",
+      "votos": 237
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10001,
+      "candidato": "NATALIA ALVAREZ",
+      "corporacion": "SE",
+      "votos": 207
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10002,
+      "candidato": "RICARDO SUAREZ",
+      "corporacion": "SE",
+      "votos": 236
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2001,
+      "candidato": "GLORIA ESPERANZA MEJIA",
+      "corporacion": "SE",
+      "votos": 195
+    },
+    {
+      "id_mesa": 3,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2002,
+      "candidato": "HERNAN DARIO GUTIERREZ",
+      "corporacion": "SE",
+      "votos": 291
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 89
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 114
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 198
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 184
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 107
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 155
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 192
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 43
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 155
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 149
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 120
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 203
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57001,
+      "candidato": "SOFIA RAMIREZ",
+      "corporacion": "SE",
+      "votos": 301
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57002,
+      "candidato": "ANDRES FELIPE LOPEZ",
+      "corporacion": "SE",
+      "votos": 311
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92001,
+      "candidato": "CAMILA VALENCIA",
+      "corporacion": "SE",
+      "votos": 205
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92002,
+      "candidato": "OSCAR MAURICIO ROJAS",
+      "corporacion": "SE",
+      "votos": 259
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10001,
+      "candidato": "NATALIA ALVAREZ",
+      "corporacion": "SE",
+      "votos": 250
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10002,
+      "candidato": "RICARDO SUAREZ",
+      "corporacion": "SE",
+      "votos": 250
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2001,
+      "candidato": "GLORIA ESPERANZA MEJIA",
+      "corporacion": "SE",
+      "votos": 165
+    },
+    {
+      "id_mesa": 4,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2002,
+      "candidato": "HERNAN DARIO GUTIERREZ",
+      "corporacion": "SE",
+      "votos": 275
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 218
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 105
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 73
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 147
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 166
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 76
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 130
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 158
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 126
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 116
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 97
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 52
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57001,
+      "candidato": "SOFIA RAMIREZ",
+      "corporacion": "SE",
+      "votos": 102
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 57,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 57002,
+      "candidato": "ANDRES FELIPE LOPEZ",
+      "corporacion": "SE",
+      "votos": 176
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92001,
+      "candidato": "CAMILA VALENCIA",
+      "corporacion": "SE",
+      "votos": 262
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 92,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 92002,
+      "candidato": "OSCAR MAURICIO ROJAS",
+      "corporacion": "SE",
+      "votos": 313
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10001,
+      "candidato": "NATALIA ALVAREZ",
+      "corporacion": "SE",
+      "votos": 113
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 10002,
+      "candidato": "RICARDO SUAREZ",
+      "corporacion": "SE",
+      "votos": 255
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2001,
+      "candidato": "GLORIA ESPERANZA MEJIA",
+      "corporacion": "SE",
+      "votos": 240
+    },
+    {
+      "id_mesa": 5,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 2002,
+      "candidato": "HERNAN DARIO GUTIERREZ",
+      "corporacion": "SE",
+      "votos": 300
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 501,
+      "candidato": "MARIA JOSE TORRES",
+      "corporacion": "CA",
+      "votos": 114
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 502,
+      "candidato": "CARLOS ANDRES PENA",
+      "corporacion": "CA",
+      "votos": 185
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 5,
+      "partido": "ALIANZA VERDE",
+      "color": "#007C34",
+      "id_candidato": 503,
+      "candidato": "LAURA GOMEZ RUIZ",
+      "corporacion": "CA",
+      "votos": 226
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8701,
+      "candidato": "JOSE DAVID SILVA",
+      "corporacion": "CA",
+      "votos": 191
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8702,
+      "candidato": "ANA MARIA CORTES",
+      "corporacion": "CA",
+      "votos": 133
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 87,
+      "partido": "PACTO HISTORICO",
+      "color": "#7B2D8B",
+      "id_candidato": 8703,
+      "candidato": "LUIS FERNANDO DIAZ",
+      "corporacion": "CA",
+      "votos": 97
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1001,
+      "candidato": "DIEGO ALEJANDRO RUIZ",
+      "corporacion": "CA",
+      "votos": 44
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1002,
+      "candidato": "PAULA ANDREA MORENO",
+      "corporacion": "CA",
+      "votos": 82
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 10,
+      "partido": "CENTRO DEMOCRATICO",
+      "color": "#1E477D",
+      "id_candidato": 1003,
+      "candidato": "SANTIAGO VARGAS",
+      "corporacion": "CA",
+      "votos": 200
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 201,
+      "candidato": "JORGE ENRIQUE CASTRO",
+      "corporacion": "CA",
+      "votos": 124
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 202,
+      "candidato": "MONICA LILIANA PEREZ",
+      "corporacion": "CA",
+      "votos": 108
+    },
+    {
+      "id_mesa": 6,
+      "id_partido": 2,
+      "partido": "CONSERVADOR",
+      "color": "#E07B00",
+      "id_candidato": 203,
+      "candidato": "FELIPE SANTOS LEON",
+      "corporacion": "CA",
+      "votos": 214
+    }
+  ]
+}

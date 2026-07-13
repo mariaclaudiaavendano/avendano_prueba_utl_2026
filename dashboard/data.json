@@ -1,0 +1,504 @@
+{
+  "colores_partido": {
+    "5": "#007C34",
+    "57": "#007C34",
+    "87": "#7B2D8B",
+    "92": "#7B2D8B",
+    "10": "#1E477D",
+    "2": "#E07B00"
+  },
+  "comparativo": [
+    {
+      "municipio": "DUITAMA",
+      "total_votos_ca": 9742
+    },
+    {
+      "municipio": "PAIPA",
+      "total_votos_ca": 7732
+    },
+    {
+      "municipio": "SOGAMOSO",
+      "total_votos_ca": 7997
+    },
+    {
+      "municipio": "TUNJA",
+      "total_votos_ca": 6595
+    }
+  ],
+  "municipios": {
+    "DUITAMA": {
+      "top_candidatos_ca": [
+        {
+          "candidato": "JOSE DAVID SILVA",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 1075
+        },
+        {
+          "candidato": "SANTIAGO VARGAS",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 902
+        },
+        {
+          "candidato": "FELIPE SANTOS LEON",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 888
+        },
+        {
+          "candidato": "CARLOS ANDRES PENA",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 874
+        },
+        {
+          "candidato": "MARIA JOSE TORRES",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 848
+        },
+        {
+          "candidato": "LAURA GOMEZ RUIZ",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 829
+        },
+        {
+          "candidato": "DIEGO ALEJANDRO RUIZ",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 807
+        },
+        {
+          "candidato": "JORGE ENRIQUE CASTRO",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 782
+        },
+        {
+          "candidato": "LUIS FERNANDO DIAZ",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 746
+        },
+        {
+          "candidato": "MONICA LILIANA PEREZ",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 722
+        }
+      ],
+      "lider_se": {
+        "partido": "CONSERVADOR",
+        "id_partido": 2,
+        "color": "#E07B00",
+        "votos": 2295
+      }
+    },
+    "PAIPA": {
+      "top_candidatos_ca": [
+        {
+          "candidato": "PAULA ANDREA MORENO",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 884
+        },
+        {
+          "candidato": "MONICA LILIANA PEREZ",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 760
+        },
+        {
+          "candidato": "JOSE DAVID SILVA",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 724
+        },
+        {
+          "candidato": "DIEGO ALEJANDRO RUIZ",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 651
+        },
+        {
+          "candidato": "CARLOS ANDRES PENA",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 633
+        },
+        {
+          "candidato": "SANTIAGO VARGAS",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 623
+        },
+        {
+          "candidato": "ANA MARIA CORTES",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 617
+        },
+        {
+          "candidato": "FELIPE SANTOS LEON",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 615
+        },
+        {
+          "candidato": "LUIS FERNANDO DIAZ",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 614
+        },
+        {
+          "candidato": "MARIA JOSE TORRES",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 586
+        }
+      ],
+      "lider_se": {
+        "partido": "CENTRO DEMOCRATICO",
+        "id_partido": 10,
+        "color": "#1E477D",
+        "votos": 2002
+      }
+    },
+    "SOGAMOSO": {
+      "top_candidatos_ca": [
+        {
+          "candidato": "FELIPE SANTOS LEON",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 820
+        },
+        {
+          "candidato": "PAULA ANDREA MORENO",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 782
+        },
+        {
+          "candidato": "LAURA GOMEZ RUIZ",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 735
+        },
+        {
+          "candidato": "MONICA LILIANA PEREZ",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 726
+        },
+        {
+          "candidato": "ANA MARIA CORTES",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 698
+        },
+        {
+          "candidato": "SANTIAGO VARGAS",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 683
+        },
+        {
+          "candidato": "CARLOS ANDRES PENA",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 648
+        },
+        {
+          "candidato": "DIEGO ALEJANDRO RUIZ",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 643
+        },
+        {
+          "candidato": "JORGE ENRIQUE CASTRO",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 595
+        },
+        {
+          "candidato": "LUIS FERNANDO DIAZ",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 588
+        }
+      ],
+      "lider_se": {
+        "partido": "CONSERVADOR",
+        "id_partido": 2,
+        "color": "#E07B00",
+        "votos": 2091
+      }
+    },
+    "TUNJA": {
+      "top_candidatos_ca": [
+        {
+          "candidato": "MARIA JOSE TORRES",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 688
+        },
+        {
+          "candidato": "SANTIAGO VARGAS",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 648
+        },
+        {
+          "candidato": "JOSE DAVID SILVA",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 644
+        },
+        {
+          "candidato": "DIEGO ALEJANDRO RUIZ",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 602
+        },
+        {
+          "candidato": "FELIPE SANTOS LEON",
+          "partido": "CONSERVADOR",
+          "id_partido": 2,
+          "color": "#E07B00",
+          "votos": 557
+        },
+        {
+          "candidato": "CARLOS ANDRES PENA",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 556
+        },
+        {
+          "candidato": "PAULA ANDREA MORENO",
+          "partido": "CENTRO DEMOCRATICO",
+          "id_partido": 10,
+          "color": "#1E477D",
+          "votos": 543
+        },
+        {
+          "candidato": "LUIS FERNANDO DIAZ",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 506
+        },
+        {
+          "candidato": "ANA MARIA CORTES",
+          "partido": "PACTO HISTORICO",
+          "id_partido": 87,
+          "color": "#7B2D8B",
+          "votos": 485
+        },
+        {
+          "candidato": "LAURA GOMEZ RUIZ",
+          "partido": "ALIANZA VERDE",
+          "id_partido": 5,
+          "color": "#007C34",
+          "votos": 466
+        }
+      ],
+      "lider_se": {
+        "partido": "CENTRO DEMOCRATICO",
+        "id_partido": 10,
+        "color": "#1E477D",
+        "votos": 1768
+      }
+    }
+  },
+  "arrastre": {
+    "DUITAMA": [
+      {
+        "id_mesa": 1,
+        "votos_ca": 325,
+        "votos_se": 264,
+        "ratio": 0.8123076923076923
+      },
+      {
+        "id_mesa": 2,
+        "votos_ca": 595,
+        "votos_se": 417,
+        "ratio": 0.7008403361344537
+      },
+      {
+        "id_mesa": 3,
+        "votos_ca": 309,
+        "votos_se": 471,
+        "ratio": 1.5242718446601942
+      },
+      {
+        "id_mesa": 4,
+        "votos_ca": 401,
+        "votos_se": 612,
+        "ratio": 1.5261845386533666
+      },
+      {
+        "id_mesa": 5,
+        "votos_ca": 396,
+        "votos_se": 278,
+        "ratio": 0.702020202020202
+      },
+      {
+        "id_mesa": 6,
+        "votos_ca": 525,
+        "votos_se": null,
+        "ratio": null
+      }
+    ],
+    "PAIPA": [
+      {
+        "id_mesa": 1,
+        "votos_ca": 326,
+        "votos_se": 451,
+        "ratio": 1.383435582822086
+      },
+      {
+        "id_mesa": 2,
+        "votos_ca": 368,
+        "votos_se": 346,
+        "ratio": 0.9402173913043478
+      },
+      {
+        "id_mesa": 3,
+        "votos_ca": 369,
+        "votos_se": 472,
+        "ratio": 1.2791327913279134
+      },
+      {
+        "id_mesa": 4,
+        "votos_ca": 198,
+        "votos_se": 396,
+        "ratio": 2.0
+      },
+      {
+        "id_mesa": 5,
+        "votos_ca": 375,
+        "votos_se": 302,
+        "ratio": 0.8053333333333333
+      },
+      {
+        "id_mesa": 6,
+        "votos_ca": 148,
+        "votos_se": 297,
+        "ratio": 2.0067567567567566
+      }
+    ],
+    "SOGAMOSO": [
+      {
+        "id_mesa": 1,
+        "votos_ca": 390,
+        "votos_se": 383,
+        "ratio": 0.982051282051282
+      },
+      {
+        "id_mesa": 2,
+        "votos_ca": 350,
+        "votos_se": 322,
+        "ratio": 0.92
+      },
+      {
+        "id_mesa": 3,
+        "votos_ca": 303,
+        "votos_se": 301,
+        "ratio": 0.9933993399339934
+      },
+      {
+        "id_mesa": 4,
+        "votos_ca": 292,
+        "votos_se": 410,
+        "ratio": 1.404109589041096
+      },
+      {
+        "id_mesa": 5,
+        "votos_ca": 241,
+        "votos_se": 347,
+        "ratio": 1.4398340248962656
+      },
+      {
+        "id_mesa": 6,
+        "votos_ca": 351,
+        "votos_se": 267,
+        "ratio": 0.7606837606837606
+      }
+    ],
+    "TUNJA": [
+      {
+        "id_mesa": 1,
+        "votos_ca": 320,
+        "votos_se": 234,
+        "ratio": 0.73125
+      },
+      {
+        "id_mesa": 2,
+        "votos_ca": 367,
+        "votos_se": 169,
+        "ratio": 0.4604904632152589
+      },
+      {
+        "id_mesa": 3,
+        "votos_ca": 249,
+        "votos_se": 199,
+        "ratio": 0.7991967871485943
+      },
+      {
+        "id_mesa": 4,
+        "votos_ca": 327,
+        "votos_se": 217,
+        "ratio": 0.6636085626911316
+      },
+      {
+        "id_mesa": 5,
+        "votos_ca": 278,
+        "votos_se": 371,
+        "ratio": 1.3345323741007193
+      },
+      {
+        "id_mesa": 6,
+        "votos_ca": 169,
+        "votos_se": 325,
+        "ratio": 1.9230769230769231
+      }
+    ]
+  }
+}

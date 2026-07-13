@@ -20,9 +20,9 @@ from datetime import datetime, timezone
 # ============================== META =======================================
 # Edite estos 3 valores con sus datos antes de entregar.
 META = {
-    "nombre": "APELLIDO NOMBRE",
-    "email": "correo@ejemplo.com",
-    "url_repo": "https://github.com/USUARIO/apellido_prueba_utl_2026",
+    "nombre": "Avendaño Maria",
+    "email": "maclavi2000@gmail.com",
+    "url_repo": "https://github.com/mariaclaudiaavendano/avendano_prueba_utl_2026",
 }
 # ============================================================================
 

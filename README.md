@@ -8,7 +8,7 @@ Pipeline de datos electorales para 4 municipios de Boyacá (Tunja, Paipa, Sogamo
 Requiere Python 3.10+ (probado con 3.12/3.14). Recomendado usar un entorno virtual.
 
 ```bash
-git clone https://github.com/TU_USUARIO/apellido_prueba_utl_2026.git
+git clone https://github.com/mariaclaudiaavendano/avendano_prueba_utl_2026.git
 cd apellido_prueba_utl_2026
 python3 -m venv venv
 source venv/bin/activate       # en Windows: venv\Scripts\activate
